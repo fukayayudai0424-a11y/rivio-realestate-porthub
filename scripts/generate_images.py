@@ -112,6 +112,34 @@ Isometric scene: multi-unit building with happy owner holding a clipboard. Green
         "page-owner.png",
         """16:9 isometric illustration: apartment building with owner reviewing portfolio charts, rental income concept. Green and blue professional palette. No text.""",
     ),
+    (
+        "page-properties.png",
+        """16:9 isometric illustration: grid of apartment buildings and houses with magnifying glass, property search concept. Sky blue, yellow accents, Japanese real estate website style. No text.""",
+    ),
+    (
+        "page-area.png",
+        """16:9 isometric illustration: Tokyo neighborhood map with pins on districts, parks and train station. Friendly real estate area guide style. No text.""",
+    ),
+    (
+        "page-faq.png",
+        """16:9 illustration: friendly real estate agent answering questions with speech bubbles (blank, no readable text). Professional, warm, sky blue palette. No text.""",
+    ),
+    (
+        "page-staff.png",
+        """16:9 illustration: diverse team of Japanese real estate professionals in office, friendly group portrait style illustration. Business casual, warm lighting. No text.""",
+    ),
+    (
+        "page-voice.png",
+        """16:9 illustration: happy family in front of new home giving thumbs up, customer testimonial concept. Warm, trustworthy real estate style. No text.""",
+    ),
+    (
+        "page-guide.png",
+        """16:9 isometric illustration: step-by-step path with icons for consultation, viewing, contract — first-time buyer guide. Clean infographic style, blue and yellow. No text.""",
+    ),
+    (
+        "property-interior.png",
+        """16:9 photo-realistic digital painting of bright modern Japanese apartment living room interior, large windows, minimalist furniture, real estate listing photo style. No text.""",
+    ),
 ]
 
 
