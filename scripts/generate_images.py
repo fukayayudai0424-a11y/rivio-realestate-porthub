@@ -140,6 +140,67 @@ Isometric scene: multi-unit building with happy owner holding a clipboard. Green
         "property-interior.png",
         """16:9 photo-realistic digital painting of bright modern Japanese apartment living room interior, large windows, minimalist furniture, real estate listing photo style. No text.""",
     ),
+    # ── Realistic photos for design upgrade ──
+    (
+        "photo-office.png",
+        """Professional real estate photography, 16:9. Bright modern Japanese real estate agency office interior, reception desk, warm wood and white decor, plants, natural light from large windows. High-end corporate photo, sharp focus, no people, no text, no watermark.""",
+    ),
+    (
+        "photo-staff-01.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businessman age 45, navy suit, friendly confident smile, neutral soft gray studio background. Real photography style, sharp, natural skin. No text.""",
+    ),
+    (
+        "photo-staff-02.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businesswoman age 32, beige blazer, warm smile, neutral soft gray studio background. Real photography style. No text.""",
+    ),
+    (
+        "photo-staff-03.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businessman age 35, light gray suit, approachable smile, studio background. Real photography style. No text.""",
+    ),
+    (
+        "photo-staff-04.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businesswoman age 28, white blouse, professional smile, studio background. Real photography style. No text.""",
+    ),
+    (
+        "photo-staff-05.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businessman age 55, dark suit, trustworthy expression, studio background. Real photography style. No text.""",
+    ),
+    (
+        "photo-staff-06.png",
+        """Professional corporate headshot photo, 1:1 square. Japanese businesswoman age 30, navy cardigan, gentle smile, studio background. Real photography style. No text.""",
+    ),
+    (
+        "photo-lifestyle-family.png",
+        """Real estate lifestyle photography, 16:9. Happy Japanese family of three in bright modern apartment living room, large windows, plants, natural daylight, warm authentic moment. Editorial quality, no text.""",
+    ),
+    (
+        "photo-neighborhood.png",
+        """Real estate neighborhood photography, 16:9. Charming Tokyo residential street near Ebisu, cherry trees, cafes, clean sidewalks, afternoon golden light. Inviting urban living atmosphere. No text, no readable signs.""",
+    ),
+    (
+        "photo-consultation.png",
+        """Real estate photography, 16:9. Japanese real estate agent in suit showing tablet to young couple in modern office meeting room, professional consultation scene, warm lighting. Authentic, no text.""",
+    ),
+    (
+        "photo-bedroom.png",
+        """Real estate interior listing photo, 16:9. Bright modern Japanese apartment bedroom, white bedding, large window, minimalist Scandinavian-Japanese style. Professional property photo. No text.""",
+    ),
+    (
+        "photo-kitchen.png",
+        """Real estate interior listing photo, 16:9. Clean modern Japanese apartment kitchen, white cabinets, wood accents, bright natural light. Professional property listing photography. No text.""",
+    ),
+    (
+        "photo-banner-wide.png",
+        """Cinematic wide real estate photo, 21:9 ultra-wide. Japanese couple walking toward beautiful modern apartment building entrance, blue sky, hopeful new home moment. Premium real estate advertising photography. No text.""",
+    ),
+    (
+        "photo-storefront.png",
+        """Real estate photography, 16:9. Modern Japanese real estate shop exterior in Tokyo, glass facade, clean signage area blank, street trees, daytime. Professional architectural photo. No readable text.""",
+    ),
+    (
+        "photo-rent-interior.png",
+        """Real estate interior photo, 16:9. Stylish compact 1LDK Tokyo rental apartment, open living dining, city view from window, warm evening light. Listing photo quality. No text.""",
+    ),
 ]
 
 
